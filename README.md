@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://goswamidigitalworld.in"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome"/></a>
+  <a href="https://goswamidigitalworld.com"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome"/></a>
   <a href="https://github.com/gdigitalworld"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 </p>
 
