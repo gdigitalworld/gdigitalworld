@@ -16,7 +16,7 @@
   
 ### 🚀 Founder @ **Goswami Digital World** | Building The Future, One Line at a Time
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=const+developer+%3D+%7B;++skills%3A+%5B'Next.js'%2C+'Node'%2C+'Cloud'%2C+'AI'%5D%2C;++passion%3A+'Building+Digital+Products';%7D%3B" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Full-Stack+Developer+%7C+Cloud+Architect;Next.js+%7C+Node.js+%7C+Python+%7C+AI%2FML;Building+Scalable+Digital+Products;Open+Source+Contributor+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -38,34 +38,41 @@
 
 ## 💫 ABOUT ME
 
-```typescript
-class Developer {
-  name: string = "Ankur Goswami";
-  role: string = "Full-Stack Developer & Founder";
-  company: string = "Goswami Digital World";
-  location: string = "India 🇮🇳";
-  
-  expertise: string[] = [
-    "Web Development (Frontend + Backend)",
-    "Cloud Architecture & DevOps",
-    "SEO & Performance Engineering",
-    "Mobile App Development",
-    "Automation & Growth Hacking"
-  ];
-  
-  currentFocus: string[] = [
-    "Building scalable SaaS products",
-    "AI/ML integration in web apps",
-    "Open-source contributions",
-    "Helping businesses scale digitally"
-  ];
-  
-  funFact: string = "I turn coffee ☕ into code 💻";
-}
+<table>
+<tr>
+<td width="50%">
 
-const ankur = new Developer();
-console.log(ankur.expertise);
-```
+### 👨‍💻 Developer Profile
+
+**Name:** Ankur Goswami  
+**Role:** Full-Stack Developer & Founder  
+**Company:** Goswami Digital World  
+**Location:** India 🇮🇳  
+
+**Fun Fact:** *I turn coffee ☕ into code 💻*
+
+</td>
+<td width="50%">
+
+### 🎯 Current Focus
+
+- 🚀 Building scalable SaaS products
+- 🤖 AI/ML integration in web apps
+- 🌟 Open-source contributions
+- 📈 Helping businesses scale digitally
+- ⚡ Performance optimization
+
+</td>
+</tr>
+</table>
+
+### 🔥 Expertise Areas
+
+🎨 **Web Development** → Frontend + Backend  
+☁️ **Cloud Architecture** → DevOps & CI/CD  
+📊 **SEO & Performance** → Growth Engineering  
+📱 **Mobile Development** → Flutter & React Native  
+⚙️ **Automation** → Scraping & Growth Hacking  
 
 <br/>
 
