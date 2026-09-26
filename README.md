@@ -242,11 +242,11 @@
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gdigitalworld&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="Ankur Goswami github stats" /> 
+<img width="49%" height="195px" src="./profile/stats.svg" alt="Ankur Goswami github stats" /> 
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=gdigitalworld&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6&border_radius=10" alt="Ankur Goswami streak stats"/>
+<img width="49%" height="195px" src="./profile/streak.svg" alt="Ankur Goswami streak stats"/>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdigitalworld&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Most Used Languages" />
+<img width="49%" height="195px" src="./profile/top-langs.svg" alt="Most Used Languages" />
 
 <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=gdigitalworld&custom_title=Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=6366F1&point=FFFFFF&hide_border=true&radius=10" alt="Contribution Graph" />
 
