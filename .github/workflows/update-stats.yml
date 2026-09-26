@@ -37,6 +37,14 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: bg_color=0d1117&color=6366F1&line=8B5CF6&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"

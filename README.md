@@ -248,17 +248,8 @@
 
 <img width="49%" height="195px" src="./profile/top-langs.svg" alt="Most Used Languages" />
 
-<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=gdigitalworld&custom_title=Contribution%20Graph&bg_color=0d1117&color=8B5CF6&line=6366F1&point=FFFFFF&hide_border=true&radius=10" alt="Contribution Graph" />
+<img width="49%" height="195px" src="./profile/activity-graph.svg" alt="Contribution Graph" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=gdigitalworld&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
